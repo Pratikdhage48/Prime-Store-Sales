@@ -87,5 +87,21 @@ Scatter or combo visuals to observe the effect of discounting on profitability.
 
 Helps in optimizing pricing strategies.
 
+• Business Impact & Insights
+
+📊 Performance Monitoring: Quickly identify underperforming stores or low-margin categories.
+
+🛍️ Category Strategy: Optimize product assortment based on customer preferences and profitability.
+
+📍 Regional Targeting: Focus marketing spend where sales conversion is high.
+
+🔁 Seasonal Planning: Align inventory and staffing based on historical sales trends.
+
+👥 Customer Focus: Develop targeted campaigns based on buyer profiles and purchasing behavior.
+
+5. Screenshots
+
+   ![Dashboard_1](https://github.com/Pratikdhage48/Prime-Store-Sales/blob/main/Prime%20Store%20Sales_1.png)
+   ![Dashboard_2](https://github.com/Pratikdhage48/Prime-Store-Sales/blob/main/Prime%20Store%20Sales_2.png)
 
 
