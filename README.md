@@ -21,8 +21,10 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for report building and .png for dashboard previews or exports.
 
 4. Features / Highlights
+   
 • Business Problem
-    Retail chains operate across multiple locations with varied product mixes and customer demographics. Analyzing which stores are underperforming, which categories drive revenue, or how discounts impact profit      is time-consuming without an effective data visualization tool.
+
+Retail chains operate across multiple locations with varied product mixes and customer demographics. Analyzing which stores are underperforming, which categories drive revenue, or how discounts impact profit     is time-consuming without an effective data visualization tool.
 
 Key questions include:
 
