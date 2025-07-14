@@ -101,7 +101,7 @@ Helps in optimizing pricing strategies.
 
 👥 Customer Focus: Develop targeted campaigns based on buyer profiles and purchasing behavior.
 
-5. Screenshots
+5. Dashboard
 
    ![Dashboard_1](https://github.com/Pratikdhage48/Prime-Store-Sales/blob/main/Prime%20Store%20Sales_1.png)
    ![Dashboard_2](https://github.com/Pratikdhage48/Prime-Store-Sales/blob/main/Prime%20Store%20Sales_2.png)
